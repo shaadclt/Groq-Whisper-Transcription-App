@@ -1,5 +1,5 @@
 # 🎤 Groq Whisper Transcription App
-A Streamlit-based web application that transcribes audio files using Groq Whisper API. You can either upload an MP3 file or input a YouTube URL to convert video audio into text within seconds.
+A Streamlit-based web application that transcribes audio files using OpenAI's Whisper API. You can either upload an MP3 file or input a YouTube URL to convert video audio into text within seconds.
 
 ## Features
 - **Upload MP3 Audio:** Upload an MP3 file, re-encode it to an efficient OGG (Opus) format, and get a transcription.
