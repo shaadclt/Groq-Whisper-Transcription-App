@@ -5,7 +5,7 @@ A Streamlit-based web application that transcribes audio files using OpenAI's Wh
 - **Upload MP3 Audio:** Upload an MP3 file, re-encode it to an efficient OGG (Opus) format, and get a transcription.
 - **YouTube Audio Transcription:** Enter a YouTube video URL, download the audio, convert it to OGG, and transcribe it.
 - **Streamlined Audio Processing:** The app optimizes file size by converting audio to Opus format and embedding it for playback.
-- **Whisper API: Leverages OpenAI's fast and accurate whisper-large-v3 model for speech-to-text transcription.
+- **Whisper API**: Leverages OpenAI's fast and accurate whisper-large-v3 model for speech-to-text transcription.
 
 ## Installation
 1. **Clone the repository:**
