@@ -55,7 +55,7 @@ def download_youtube_audio(youtube_url, output_file="youtube_audio.mp3"):
     os.rename(downloaded_filename, output_file)
 
 # Streamlit App Setup
-st.set_page_config(layout="wide", page_title="🎤 Groq Whisper Fast Transcription")
+st.set_page_config(layout="wide", page_title="🎤 Groq Whisper Transcription App")
 
 # Add custom CSS to improve UI styling
 st.markdown("""
